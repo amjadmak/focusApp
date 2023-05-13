@@ -8,7 +8,7 @@ export const BtnTemplate = ({
   size=125,
   ...props
 }) =>{
-console.log("first")
+console.log("firt")
  return (
     <TouchableOpacity
       style={[styles(size).radius, style]}
